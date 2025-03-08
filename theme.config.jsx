@@ -10,12 +10,12 @@ export default {
   },
   docsRepositoryBase: 'https://github.com/srkanyalcinkaya/legal/blob/main',
   footer: {
-    text: `© ${new Date().getFullYear()} LawLinkGlobal. Tüm hakları saklıdır.`,
+    text: `© ${new Date().getFullYear()} LawLinkGlobal. All rights reserved.`,
   },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – LawLinkGlobal Legal Framework',
-      description: 'LawLinkGlobal platformu resmi sözleşmeler dokümantasyonu',
+      titleTemplate: '%s – LawLinkGlobal Legal Framework - Policies, Agreements & Compliance',
+      description: 'Explore LawLinkGlobals Legal Framework, including Terms of Service, Privacy Policy, User Agreements, and Blockchain Compliance. Stay informed about the legal structure governing decentralized legal services',
       openGraph: {
         type: 'website',
         locale: 'tr_TR',
@@ -42,10 +42,10 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="description" content="LawLinkGlobal Legal Framework" />
       <meta name="og:title" content="LawLinkGlobal Legal Framework" />
-      <meta name="keywords" content="hukuk, avukat, dava yönetimi, belge yönetimi, hukuk yazılımı" />
+      <meta name="keywords" content="Legal Framework, policies, agreements, compliance, terms" />
       <meta name="author" content="LawLinkGlobal" />
       <meta name="robots" content="index, follow" />
-      <meta name="language" content="Turkish" />
+      <meta name="language" content="English" />
       <link rel="canonical" href="https://legal.lawlinkglobal.com" />
       <link rel="icon" href="/favicon.ico" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />

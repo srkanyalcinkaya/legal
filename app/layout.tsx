@@ -3,11 +3,11 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'LawLinkGlobal Sözleşmeler',
+    default: 'LawLinkGlobal Legal Framework',
     template: '%s | LawLinkGlobal Legal',
   },
-  description: 'LawLinkGlobal platformu resmi sözleşmeler dokümantasyonu',
-  keywords: ['hukuk', 'avukat', 'dava yönetimi', 'belge yönetimi', 'hukuk yazılımı'],
+  description: 'Explore LawLinkGlobals Legal Framework, including Terms of Service, Privacy Policy, User Agreements, and Blockchain Compliance. Stay informed about the legal structure governing decentralized legal services.',
+  keywords: ['legal framework', 'agreements', 'policies', 'terms', 'compliance'],
   authors: [{ name: 'LawLinkGlobal Ekibi' }],
   creator: 'LawLinkGlobal',
   publisher: 'LawLinkGlobal',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'LawLinkGlobal Legal Framework',
-    description: 'LawLinkGlobal platformu resmi sözleşmeler dokümantasyonu',
+    description: 'Explore LawLinkGlobals Legal Framework, including Terms of Service, Privacy Policy, User Agreements, and Blockchain Compliance. Stay informed about the legal structure governing decentralized legal services.',
     url: 'https://legal.lawlinkglobal.com',
     siteName: 'LawLinkGlobal Legal',
     images: [
@@ -52,10 +52,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LawLinkGlobal  Sözleşmeler Dokümantasyonu',
-    description: 'LawLinkGlobal platformu resmi sözleşme dokümantasyonu',
+    title: 'LawLinkGlobal Legal Framework',
+    description: 'Explore LawLinkGlobals Legal Framework, including Terms of Service, Privacy Policy, User Agreements, and Blockchain Compliance. Stay informed about the legal structure governing decentralized legal services.',
     creator: '@lawlinkglobal',
-    images: ['https://legal.lawlinkglobal.com/twitter-image.png'],
+    images: ['https://legal.lawlinkglobal.com/og-image.png'],
   },
   icons: {
     icon: '/favicon.ico',
