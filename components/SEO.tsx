@@ -11,13 +11,14 @@ interface SEOProps {
 }
 
 export default function SEO({
-  title = 'LawLinkGlobal Dokümantasyon',
-  description = 'LawLinkGlobal platformu resmi dokümantasyonu',
-  canonical = 'https://docs.lawlinkglobal.com',
-  ogImage = 'https://docs.lawlinkglobal.com/og-image.png',
+  title="LawLinkGlobal Legal Framework - Policies, Agreements & Compliance", 
+  description="Explore LawLinkGlobal's Legal Framework, including Terms of Service, Privacy Policy, User Agreements, and Blockchain Compliance. Stay informed about the legal structure governing decentralized legal services.",
+  canonical = 'https://legal.lawlinkglobal.com',
+  ogImage = 'https://legal.lawlinkglobal.com/og-image.png',
   ogType = 'website',
   twitterHandle = '@lawlinkglobal',
-  keywords = 'hukuk, avukat, dava yönetimi, belge yönetimi, hukuk yazılımı'
+  keywords="LawLinkGlobal Legal Framework, Terms of Service, Legal Agreements, Compliance, Blockchain Law, Web3 Legal Policies"
+
 }: SEOProps) {
   return (
     <Head>
