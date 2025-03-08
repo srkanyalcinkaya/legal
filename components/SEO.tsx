@@ -33,7 +33,7 @@ export default function SEO({
       <meta property="og:description" content={description} />
       <meta property="og:image" content={ogImage} />
       <meta property="og:url" content={canonical} />
-      <meta property="og:site_name" content="LawLinkGlobal Dokümantasyon" />
+      <meta property="og:site_name" content="LawLinkGlobal Legal Framework" />
       <meta property="og:locale" content="tr_TR" />
       
       {/* Twitter */}
