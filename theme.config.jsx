@@ -2,11 +2,11 @@ export default {
   logo: (
     <div style={{ display: "flex", flexDirection: "row", alignItems:"center", gap:12 }}>
       <img src="/llg-bg-logo.png" alt="LawLinkGlobal" width={40} height={40} />
-      <span style={{ fontWeight: 'bold' }}>LawLinkGlobal Sözleşmeler Dokümantasyonu</span>
+      <span style={{ fontWeight: 'bold' }}>LawLinkGlobal Legal Framework</span>
     </div>
   ),
   project: {
-    link: 'https://github.com/srkanyalcinkaya/legal',
+    link: 'https://github.com/lawlinkglobal',
   },
   docsRepositoryBase: 'https://github.com/srkanyalcinkaya/legal/blob/main',
   footer: {
@@ -14,19 +14,19 @@ export default {
   },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – LawLinkGlobal Sözleşmeler Dokümantasyonu',
+      titleTemplate: '%s – LawLinkGlobal Legal Framework',
       description: 'LawLinkGlobal platformu resmi sözleşmeler dokümantasyonu',
       openGraph: {
         type: 'website',
         locale: 'tr_TR',
         url: 'https://legal.lawlinkglobal.com',
-        site_name: 'LawLinkGlobal Sözleşmeler Dokümantasyonu',
+        site_name: 'LawLinkGlobal Legal Framework',
         images: [
           {
             url: 'https://legal.lawlinkglobal.com/og-image.png',
             width: 1200,
             height: 630,
-            alt: 'LawLinkGlobal Sözleşmeler Dokümantasyonu'
+            alt: 'LawLinkGlobal Legal Framework'
           }
         ]
       },
@@ -40,8 +40,8 @@ export default {
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta name="description" content="LawLinkGlobal Sözleşmeler Dokümantasyonu" />
-      <meta name="og:title" content="LawLinkGlobal Sözleşmeler Dokümantasyonu" />
+      <meta name="description" content="LawLinkGlobal Legal Framework" />
+      <meta name="og:title" content="LawLinkGlobal Legal Framework" />
       <meta name="keywords" content="hukuk, avukat, dava yönetimi, belge yönetimi, hukuk yazılımı" />
       <meta name="author" content="LawLinkGlobal" />
       <meta name="robots" content="index, follow" />

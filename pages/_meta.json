@@ -2,6 +2,15 @@
   "index": {
     "title": "LawLinkGlobal"
   },
+  "for-lawyers":{
+    "title":"For Lawyers"
+  },
+  "for-users":{
+    "title":"For Users"
+  },
+  "for-platform-use":{
+    "title":"For Platform Use"
+  },
   "contact": {
     "title": "İletişim",
     "type": "page",

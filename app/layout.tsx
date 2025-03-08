@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+
 export const metadata: Metadata = {
   title: {
     default: 'LawLinkGlobal Sözleşmeler',
@@ -24,7 +25,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'LawLinkGlobal Sözleşmeler Dokümantasyonu',
+    title: 'LawLinkGlobal Legal Framework',
     description: 'LawLinkGlobal platformu resmi sözleşmeler dokümantasyonu',
     url: 'https://legal.lawlinkglobal.com',
     siteName: 'LawLinkGlobal Legal',
