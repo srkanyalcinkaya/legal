@@ -1,4 +1,4 @@
-# LawLinkGlobal Dokümantasyon
+# LawLinkGlobal Legal Framework
 
 Bu repo, [docs.lawlinkglobal.com](https://docs.lawlinkglobal.com) dokümantasyon sitesinin kaynak kodunu içerir. Site, Next.js ve Nextra kullanılarak oluşturulmuştur.
 

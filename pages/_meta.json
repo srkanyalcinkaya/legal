@@ -11,10 +11,28 @@
   "for-platform-use":{
     "title":"For Platform Use"
   },
-  "contact": {
-    "title": "İletişim",
+  "official-website": {
+    "title": "Official Website",
     "type": "page",
     "href": "https://lawlinkglobal.com",
+    "newWindow": true
+  },
+  "legal-resources": {
+    "title": "Documentation",
+    "type": "page",
+    "href": "https://docs.lawlinkglobal.com",
+    "newWindow": true
+  },
+  "lawlinkglobal-platform": {
+    "title": "Platform",
+    "type": "page",
+    "href": "https://lawlinkglobal.com",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "Contact",
+    "type": "page",
+    "href": "https://docs.lawlinkglobal.com/community-and-support",
     "newWindow": true
   }
 }
